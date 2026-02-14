@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hemanthr04" target="blank"><img src="https://img.shields.io/twitter/follow/hemanthr04?logo=twitter&style=for-the-badge" alt="hemanthr04" /></a> </p>
 
-- 🔭 I’m currently working on **EyeRL**
+- 🔭 I’m currently working on **Blendn**
 
 - 🌱 I’m currently learning **Next JS**
 
